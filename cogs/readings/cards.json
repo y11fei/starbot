@@ -18,7 +18,7 @@
             "innocence"
         ],
         "meanings": {
-            "light": [
+            "upright": [
                 "Freeing yourself from limitation",
                 "Expressing joy and youthful vigor",
                 "Being open-minded",
@@ -28,7 +28,7 @@
                 "Exploring your potential",
                 "Embracing innovation and change"
             ],
-            "shadow": [
+            "reversed": [
                 "Being gullible and naive",
                 "Taking unnecessary risks",
                 "Failing to be serious when required",
@@ -66,14 +66,14 @@
             "activity"
         ],
         "meanings": {
-            "light": [
+            "upright": [
                 "Taking appropriate action",
                 "Receiving guidance from a higher power",
                 "Becoming a channel of divine will",
                 "Expressing masculine energy in appropriate and constructive ways",
                 "Being yourself in every way"
             ],
-            "shadow": [
+            "reversed": [
                 "Inflating your own ego",
                 "Abusing talents",
                 "Manipulating or deceiving others",
@@ -113,7 +113,7 @@
             "initiation"
         ],
         "meanings": {
-            "light": [
+            "upright": [
                 "Listening to your feelings and intuitions",
                 "Exploring unconventional spirituality",
                 "Keeping secrets",
@@ -122,7 +122,7 @@
                 "Observing others",
                 "Preserving purity"
             ],
-            "shadow": [
+            "reversed": [
                 "Being aloof",
                 "Obsessing on secrets and conspiracies",
                 "Rejecting guidance from spirit or intuition",
@@ -161,7 +161,7 @@
             "nurturing"
         ],
         "meanings": {
-            "light": [
+            "upright": [
                 "Nurturing yourself and others",
                 "Bearing fruit",
                 "Celebrating your body",
@@ -171,7 +171,7 @@
                 "Enjoying your sexuality",
                 "Getting things done"
             ],
-            "shadow": [
+            "reversed": [
                 "Overindulging",
                 "Being greedy",
                 "Smothering someone with attention",
@@ -210,7 +210,7 @@
             "structure"
         ],
         "meanings": {
-            "light": [
+            "upright": [
                 "Exercising authority",
                 "Defining limits",
                 "Directing the flow of work",
@@ -218,7 +218,7 @@
                 "Being in control of yourself and others",
                 "Tempering aggressive masculinity with wisdom and experience"
             ],
-            "shadow": [
+            "reversed": [
                 "Micromanaging",
                 "Crushing the creativity of others with a rigid, iron-fisted approach",
                 "Insisting on getting your own way",
@@ -256,7 +256,7 @@
             "belief"
         ],
         "meanings": {
-            "light": [
+            "upright": [
                 "Teaching or guiding others",
                 "Searching for the truth",
                 "Asking for guidance from a higher power",
@@ -265,7 +265,7 @@
                 "Engaging in heartfelt rituals",
                 "Volunteering"
             ],
-            "shadow": [
+            "reversed": [
                 "Using experience as a means of manipulating or misguiding others",
                 "Being dogmatic",
                 "Favoring tradition over what is expedient or necessary",
@@ -304,7 +304,7 @@
             "choice"
         ],
         "meanings": {
-            "light": [
+            "upright": [
                 "Being in love",
                 "Showing your love to others",
                 "Expressing passion or romantic feelings",
@@ -312,7 +312,7 @@
                 "Bringing people together",
                 "Making well-informed decisions"
             ],
-            "shadow": [
+            "reversed": [
                 "Debilitating passion",
                 "Allowing an unhealthy desire for love to motivate destructive behavior",
                 "Disrupting unity",
@@ -350,7 +350,7 @@
             "success"
         ],
         "meanings": {
-            "light": [
+            "upright": [
                 "Breaking through barriers",
                 "Moving forward with confidence and authority",
                 "Reaching the pinnacle of success",
@@ -358,7 +358,7 @@
                 "Guiding an effort to total victory",
                 "Establishing yourself as a worthy leader"
             ],
-            "shadow": [
+            "reversed": [
                 "Resting on laurels",
                 "Riding roughshod over the feelings or expectations of others",
                 "Focusing more on past successes than future opportunities",
@@ -396,13 +396,13 @@
             "vitality"
         ],
         "meanings": {
-            "light": [
+            "upright": [
                 "Imposing restrictions on yourself for your own benefit",
                 "Bringing your passions under the control of reason",
                 "Resisting impulses that work against your best interests",
                 "Taking bold action"
             ],
-            "shadow": [
+            "reversed": [
                 "Indulging weakness, even when you know it will damage your health and happiness",
                 "Languishing in addiction",
                 "Allowing your instincts to tame and conquer you",
@@ -439,14 +439,14 @@
             "withdrawal"
         ],
         "meanings": {
-            "light": [
+            "upright": [
                 "Becoming or seeking out a guru",
                 "Going on a retreat",
                 "Recharging spiritual or creative batteries",
                 "Lighting the way for those with less experience",
                 "Stepping back to gain perspective"
             ],
-            "shadow": [
+            "reversed": [
                 "Being a loner",
                 "Fearing contact with others",
                 "Becoming a know-it-all",
@@ -486,14 +486,14 @@
             "revolution"
         ],
         "meanings": {
-            "light": [
+            "upright": [
                 "Allowing events to unfold",
                 "Seeing the larger pattern in everyday events",
                 "Trusting your luck",
                 "Watching for cycles",
                 "Believing that \"what goes around, comes around\""
             ],
-            "shadow": [
+            "reversed": [
                 "Losing money gambling",
                 "Refusing to do your part to bring a plan to fruition",
                 "Taking a fatalistic approach to life",
@@ -530,7 +530,7 @@
             "objectivity"
         ],
         "meanings": {
-            "light": [
+            "upright": [
                 "Making an objective decision",
                 "Weighing an issue carefully before taking action",
                 "Appropriately scaling your reaction to a situation",
@@ -538,7 +538,7 @@
                 "Considering evidence",
                 "Deliberating"
             ],
-            "shadow": [
+            "reversed": [
                 "Delivering harsh criticism",
                 "Obsessing on rules and regulations",
                 "Playing by the book even when it is destructive or counterproductive to do so",
@@ -577,14 +577,14 @@
             "reversals"
         ],
         "meanings": {
-            "light": [
+            "upright": [
                 "Seeing growth opportunities in unpleasant events",
                 "Experiencing a dramatic change in personal perspective",
                 "Making the best of an unforeseen change in your life or work",
                 "Suspending disbelief",
                 "Making sacrifices"
             ],
-            "shadow": [
+            "reversed": [
                 "Being untrue to yourself and your values",
                 "Refusing to make sacrifices when appropriate",
                 "Refusing to adapt to new situations",
@@ -623,7 +623,7 @@
             "departure"
         ],
         "meanings": {
-            "light": [
+            "upright": [
                 "Bringing an unpleasant phase of life to an end",
                 "Recognizing and celebrating the conclusion of something",
                 "Putting bad habits to rest",
@@ -631,7 +631,7 @@
                 "Leaving one person, place, or thing for another",
                 "Letting go"
             ],
-            "shadow": [
+            "reversed": [
                 "Obsessing on death and dying",
                 "Refusing to give up old habits or unhealthy relationships",
                 "Insisting that everything and everyone should stay the same forever",
@@ -668,7 +668,7 @@
             "harmony"
         ],
         "meanings": {
-            "light": [
+            "upright": [
                 "Bringing opposites together",
                 "Moderating your actions or emotions",
                 "Finding middle ground",
@@ -676,7 +676,7 @@
                 "Synthesizing solutions that please everyone involved",
                 "Using the old to make something new"
             ],
-            "shadow": [
+            "reversed": [
                 "Going to extremes",
                 "Disrupting group efforts",
                 "Ignoring healthy approaches to life",
@@ -710,13 +710,13 @@
             "Beware evil influences and wolves in sheep's clothing"
         ],
         "keywords": [
-            "shadow",
+            "reversed",
             "materialism",
             "bondage",
             "delusion"
         ],
         "meanings": {
-            "light": [
+            "upright": [
                 "Appreciating the luxuries that life has to offer",
                 "Being comfortable in your own skin",
                 "Enjoying your sexuality",
@@ -724,7 +724,7 @@
                 "Embracing the fact that everyone has a darker side",
                 "Dealing with unhealthy impulses in healthy ways"
             ],
-            "shadow": [
+            "reversed": [
                 "Putting excessive emphasis on appearances",
                 "Always wanting more",
                 "Valuing possessions more than people or relationships",
@@ -765,7 +765,7 @@
             "destruction"
         ],
         "meanings": {
-            "light": [
+            "upright": [
                 "Breaking out of old, confining habits and mindsets",
                 "Clearing the way for new growth",
                 "Dispelling the influence of an inflated ego",
@@ -773,7 +773,7 @@
                 "Stripping away harmful illusions",
                 "Receiving sudden insight"
             ],
-            "shadow": [
+            "reversed": [
                 "Clinging to traditions that repress growth",
                 "Engaging in willful blindness",
                 "Rejecting evidence that change is needed",
@@ -814,7 +814,7 @@
             "truth"
         ],
         "meanings": {
-            "light": [
+            "upright": [
                 "Hoping for the best",
                 "Believing good things happen to good people",
                 "Seeing events in the best possible light",
@@ -822,7 +822,7 @@
                 "Seeking guidance from above",
                 "Embracing possibility over probability"
             ],
-            "shadow": [
+            "reversed": [
                 "Denying unpleasant truths",
                 "Denying personal accountability and saying, \"Things just happen!\"",
                 "Ignoring signs and omens",
@@ -861,14 +861,14 @@
             "uncertainty"
         ],
         "meanings": {
-            "light": [
+            "upright": [
                 "Enjoying healthy fantasies and daydreams",
                 "Using your imagination",
                 "Practicing magic or celebrating the magic of everyday life",
                 "Attuning yourself to the cycles of nature",
                 "Embracing the unknown"
             ],
-            "shadow": [
+            "reversed": [
                 "Becoming unable to separate fantasy from reality",
                 "Suffering from delusions",
                 "Losing your appreciation for the fantastic or magical",
@@ -906,14 +906,14 @@
             "energy"
         ],
         "meanings": {
-            "light": [
+            "upright": [
                 "Seeing things clearly",
                 "Experiencing intense joy",
                 "Celebrating your own successes",
                 "Knowing you're good at what you do",
                 "Gaining recognition for your personal genius"
             ],
-            "shadow": [
+            "reversed": [
                 "Being dazzled by your own accomplishments",
                 "Becoming absorbed in your own self-image",
                 "Feeling rushed and distracted",
@@ -952,7 +952,7 @@
             "invitation"
         ],
         "meanings": {
-            "light": [
+            "upright": [
                 "Receiving a wake-up call",
                 "Discovering a new purpose in life",
                 "Becoming totally and completely yourself",
@@ -960,7 +960,7 @@
                 "Passing an evaluation or examination",
                 "Welcoming the start of a new phase of life"
             ],
-            "shadow": [
+            "reversed": [
                 "Being weighed in the balances and found wanting",
                 "Failing to measure up to a well-defined standard",
                 "Being caught goofing off or misbehaving",
@@ -999,7 +999,7 @@
             "fullness"
         ],
         "meanings": {
-            "light": [
+            "upright": [
                 "Having it all",
                 "Knowing and loving yourself as completely as possible",
                 "Seeing the interconnection of all things and people",
@@ -1007,7 +1007,7 @@
                 "Living life to its fullest",
                 "Understanding the meaning of life"
             ],
-            "shadow": [
+            "reversed": [
                 "Allowing greed and envy to prevent you from enjoying what you do possess",
                 "Failing to see the larger design in ordinary events",
                 "Believing that everything that exists can be touched, counted, or measured",
@@ -1044,7 +1044,7 @@
             "motivation"
         ],
         "meanings": {
-            "light": [
+            "upright": [
                 "Trusting your feelings",
                 "Opening yourself to spirit",
                 "Accepting and returning affection",
@@ -1052,7 +1052,7 @@
                 "Taking advantage of an opportunity to express love to others",
                 "Listening to the still, small voice"
             ],
-            "shadow": [
+            "reversed": [
                 "Hiding your feelings",
                 "Spurning an opportunity to love or be loved",
                 "Numbing yourself to spiritual yearnings",
@@ -1088,7 +1088,7 @@
             "affection"
         ],
         "meanings": {
-            "light": [
+            "upright": [
                 "Being drawn to someone",
                 "Longing for someone or something",
                 "Acting on your desires",
@@ -1098,7 +1098,7 @@
                 "Healing broken ties",
                 "Admitting two people feel differently about each other and moving on"
             ],
-            "shadow": [
+            "reversed": [
                 "Burning bridges",
                 "Becoming caught up in unhealthy codependency",
                 "Shutting out anyone but your chosen few",
@@ -1132,14 +1132,14 @@
             "friendliness"
         ],
         "meanings": {
-            "light": [
+            "upright": [
                 "Celebrating your feelings or connections with others",
                 "Expressing joy through song, dance, or physical affection",
                 "Working together with others who share your feelings",
                 "Performing acts of service as a way of saying, \"I love you\"",
                 "Embracing unconventional romantic arrangements"
             ],
-            "shadow": [
+            "reversed": [
                 "Mistaking giddiness for true affection",
                 "Being dominated by manic emotions",
                 "Expecting everyone to always feel the same way you do",
@@ -1175,13 +1175,13 @@
             "ingratitude"
         ],
         "meanings": {
-            "light": [
+            "upright": [
                 "Maintaining your emotional stability",
                 "Refusing to give in to overwhelming emotions",
                 "Appreciating what you have and refusing to take it for granted",
                 "Seeing the value of long-term commitments"
             ],
-            "shadow": [
+            "reversed": [
                 "Being bored",
                 "Daydreaming at the expense of your work",
                 "Refusing to be engaged by opportunity",
@@ -1221,7 +1221,7 @@
             "repentance"
         ],
         "meanings": {
-            "light": [
+            "upright": [
                 "Acknowledging loss and moving on",
                 "Focusing on how the glass remains \"half-full\"",
                 "Finding the silver lining in a dark cloud",
@@ -1229,7 +1229,7 @@
                 "Embracing healthy grief",
                 "Learning lessons from harsh consequences"
             ],
-            "shadow": [
+            "reversed": [
                 "Wallowing in unhealthy grief or self-pity",
                 "Refusing to move on and let go",
                 "Clinging to the past",
@@ -1267,14 +1267,14 @@
             "fairness"
         ],
         "meanings": {
-            "light": [
+            "upright": [
                 "Donating your time and talents to others",
                 "Taking satisfaction in knowing how your efforts will aid others",
                 "Creating a \"win-win\" scenario",
                 "Giving even when you know repayment is not possible",
                 "Being motivated to do a good deed"
             ],
-            "shadow": [
+            "reversed": [
                 "Linking your sense of self-worth to the appraisals of others",
                 "Striving to appear more needy than you really are",
                 "Taking undeserved or unmerited charity",
@@ -1310,14 +1310,14 @@
             "goals"
         ],
         "meanings": {
-            "light": [
+            "upright": [
                 "Motivating yourself with images of future success",
                 "Using visualization to encourage progress",
                 "Taking an imaginative or creative approach to problem solving",
                 "Making dreams come true",
                 "Gleaning insight from personal visions"
             ],
-            "shadow": [
+            "reversed": [
                 "Obsessing on imaginary fears or uncertain consequences",
                 "Giving in to emotional or political terrorism",
                 "Spending more time dreaming than working",
@@ -1353,7 +1353,7 @@
             "withdrawal"
         ],
         "meanings": {
-            "light": [
+            "upright": [
                 "Wanting something better",
                 "Blazing your own trail",
                 "Realizing there must be more to life",
@@ -1362,7 +1362,7 @@
                 "Going on a retreat",
                 "Seeking the \"still, small voice\""
             ],
-            "shadow": [
+            "reversed": [
                 "Being implacable",
                 "Finding fault",
                 "Nitpicking",
@@ -1399,7 +1399,7 @@
             "pleasure"
         ],
         "meanings": {
-            "light": [
+            "upright": [
                 "Being delighted with your own achievements",
                 "Recognizing your own talents and abilities",
                 "Reveling in the good things life has to offer",
@@ -1407,7 +1407,7 @@
                 "Relaxing and unwinding",
                 "Having everything you need in order to feel complete"
             ],
-            "shadow": [
+            "reversed": [
                 "Being smug",
                 "Satisfying yourself at the expense of others",
                 "Being selfish",
@@ -1444,14 +1444,14 @@
             "giddiness"
         ],
         "meanings": {
-            "light": [
+            "upright": [
                 "Having more than you ever dreamed",
                 "Being deeply thankful for all you've been given",
                 "Recognizing the Hand of God in the gifts the Universe brings your way",
                 "Experiencing transcendent joy",
                 "Achieving domestic bliss"
             ],
-            "shadow": [
+            "reversed": [
                 "Comparing your achievements or relationships to unrealistic fantasy standards",
                 "Experiencing emotions so intense they blunt your ability to cope with reality",
                 "Feeling overwhelmed",
@@ -1484,7 +1484,7 @@
             "superficiality"
         ],
         "meanings": {
-            "light": [
+            "upright": [
                 "Showing your emotions freely",
                 "Throwing yourself into romance",
                 "Nursing a secret crush",
@@ -1494,7 +1494,7 @@
                 "Experiencing love for the first time",
                 "Converting to a new religion"
             ],
-            "shadow": [
+            "reversed": [
                 "Mistaking a crush for true love",
                 "Reading romantic intention into innocent action",
                 "Frantically trying to impress others",
@@ -1527,7 +1527,7 @@
             "illumination"
         ],
         "meanings": {
-            "light": [
+            "upright": [
                 "Being deeply committed to a cause",
                 "Giving in to strong emotions, from excitement to depression",
                 "Acting on intuition alone",
@@ -1535,7 +1535,7 @@
                 "Believing in and basing decisions on ideals instead of realities",
                 "Bringing intuition or passion to the table"
             ],
-            "shadow": [
+            "reversed": [
                 "Becoming a fanatic",
                 "Rejecting information that suggests your intuitions are misguided",
                 "Allowing your emotions to control you",
@@ -1569,7 +1569,7 @@
             "instinct"
         ],
         "meanings": {
-            "light": [
+            "upright": [
                 "Allowing yourself to be moved by the plight of others",
                 "Feeling strong emotions",
                 "Possessing unusual sympathy or empathy",
@@ -1577,7 +1577,7 @@
                 "Calling on psychic abilities",
                 "Achieving unity with Spirit"
             ],
-            "shadow": [
+            "reversed": [
                 "Becoming so caught up in matters of Spirit, you become detached from the world",
                 "Allowing empathy to disable you (instead of inspire action)",
                 "Using psychic abilities to wield covert influence",
@@ -1609,14 +1609,14 @@
             "composure"
         ],
         "meanings": {
-            "light": [
+            "upright": [
                 "Keeping a stiff upper lip",
                 "Being brave and clear in the face of adverse circumstances",
                 "Sharing experience as a way of comforting others",
                 "Making fair and empathetic decisions",
                 "Honoring the spirit, not just the letter, of the law"
             ],
-            "shadow": [
+            "reversed": [
                 "Allowing yourself to become rigid and unemotional",
                 "Making unfair decisions based on a hidden agenda",
                 "Making decisions without regard for their emotional impact on others",
@@ -1650,7 +1650,7 @@
             "choice"
         ],
         "meanings": {
-            "light": [
+            "upright": [
                 "Making objective decisions",
                 "Applying logic",
                 "Reasoning your way out of a difficult situation",
@@ -1660,7 +1660,7 @@
                 "Clearing your mind",
                 "Seeking clarity"
             ],
-            "shadow": [
+            "reversed": [
                 "Applying ruthless or twisted logic",
                 "Gloating over your own superior intellect",
                 "Using quick thinking to deceive or confuse others",
@@ -1695,7 +1695,7 @@
             "truce"
         ],
         "meanings": {
-            "light": [
+            "upright": [
                 "Refusing to make a decision without getting the facts",
                 "Exploring both sides of an argument",
                 "Arguing passionately for what you believe in",
@@ -1703,7 +1703,7 @@
                 "Encouraging the open exchange of ideas",
                 "Discussing political or religious issues without getting \"hot under the collar\""
             ],
-            "shadow": [
+            "reversed": [
                 "Rejecting evidence that conflicts with dearly-held beliefs",
                 "Arguing with others just for the sake of doing so",
                 "Nit-picking",
@@ -1739,14 +1739,14 @@
             "rejection"
         ],
         "meanings": {
-            "light": [
+            "upright": [
                 "Being brave enough to see things as they really are",
                 "Exercising your critical eye",
                 "Being your own best critic",
                 "Acknowledging that things don't always turn out as planned",
                 "Moving past heartbreak to embrace a painful truth"
             ],
-            "shadow": [
+            "reversed": [
                 "Wallowing in despair",
                 "Allowing yourself to be completely crushed by the thoughts, words, or deeds of another",
                 "Judging yourself too harshly",
@@ -1781,14 +1781,14 @@
             "mindset"
         ],
         "meanings": {
-            "light": [
+            "upright": [
                 "Thinking over your plans before putting them into action",
                 "Pausing to meditate or clear your mind",
                 "Taking time to understand someone or something before criticizing it",
                 "Resting",
                 "Occupying your thoughts with a healthy distraction"
             ],
-            "shadow": [
+            "reversed": [
                 "Failing to think things through",
                 "Mistaking procrastination for thoughtfulness",
                 "Adopting a point of view and refusing to reconsider your conclusions, even when presented with refuting evidence",
@@ -1822,7 +1822,7 @@
             "self-preservation"
         ],
         "meanings": {
-            "light": [
+            "upright": [
                 "Acting in your own best interest",
                 "Choosing to stand up for yourself",
                 "Not backing down from disagreement and discord",
@@ -1830,7 +1830,7 @@
                 "Refusing to go along with an unethical plan",
                 "Knowing when to bend the rules"
             ],
-            "shadow": [
+            "reversed": [
                 "Taking advantage of others",
                 "Intimidating others",
                 "Acting in an unethical manner",
@@ -1868,7 +1868,7 @@
             "travel"
         ],
         "meanings": {
-            "light": [
+            "upright": [
                 "Making the best of a bad situation",
                 "Recovering from defeat",
                 "Resetting expectations",
@@ -1877,7 +1877,7 @@
                 "Changing the way you see the world",
                 "Broadening your perspective through study or travel"
             ],
-            "shadow": [
+            "reversed": [
                 "Refusing to accept that things have changed",
                 "Playing the victim",
                 "Rejecting the idea that your actions have consequences",
@@ -1912,14 +1912,14 @@
             "assumptions"
         ],
         "meanings": {
-            "light": [
+            "upright": [
                 "Refusing to do something dishonest, even when there's no chance of ever being caught",
                 "Handling a difficult situation with finesse",
                 "Pointing out assumptions",
                 "Acting ethically in public and in private",
                 "Living a life that is beyond reproach"
             ],
-            "shadow": [
+            "reversed": [
                 "Stealing or lying",
                 "Doing whatever you can get away with, simply because you can",
                 "Looking for a way around consequences",
@@ -1954,7 +1954,7 @@
             "helplessness"
         ],
         "meanings": {
-            "light": [
+            "upright": [
                 "Honoring limits",
                 "Respecting the rules",
                 "Deciding to go on a diet for your health's sake",
@@ -1963,7 +1963,7 @@
                 "Refusing to think about unhealthy or unethical options",
                 "Asking for assistance"
             ],
-            "shadow": [
+            "reversed": [
                 "Feeling trapped",
                 "Being lost in a maze of rules and regulations",
                 "Giving in to despair",
@@ -2000,7 +2000,7 @@
             "conclusion"
         ],
         "meanings": {
-            "light": [
+            "upright": [
                 "Refusing to worry about what you cannot control",
                 "Rejecting anxiety",
                 "Judging your own performance with kindness and gentleness",
@@ -2008,7 +2008,7 @@
                 "Confronting nightmares and fears",
                 "Drawing a conclusion and putting an issue out of your mind"
             ],
-            "shadow": [
+            "reversed": [
                 "Torturing yourself with regrets",
                 "Second-guessing your every move",
                 "Beating yourself up for your mistakes",
@@ -2047,7 +2047,7 @@
             "obsession"
         ],
         "meanings": {
-            "light": [
+            "upright": [
                 "Seeing the signs that you've reached your limits",
                 "Paying attention to what your body is trying to tell you",
                 "Giving in to the need for rest and renewal",
@@ -2055,7 +2055,7 @@
                 "Committing to a turnaround",
                 "Knowing the worst is over"
             ],
-            "shadow": [
+            "reversed": [
                 "Accepting defeat prematurely",
                 "Driving yourself to total exhaustion, especially mentally",
                 "Experiencing a mental breakdown",
@@ -2091,7 +2091,7 @@
             "information"
         ],
         "meanings": {
-            "light": [
+            "upright": [
                 "Pursuing a course of study",
                 "Asking good questions",
                 "Investing time in study and practice",
@@ -2101,7 +2101,7 @@
                 "Outlining what you need to know",
                 "Finding a mentor or teacher"
             ],
-            "shadow": [
+            "reversed": [
                 "Pretending to knowledge or sophistication you do not possess",
                 "Cheating on an exam",
                 "Feigning interest as a way of gaining favor",
@@ -2135,7 +2135,7 @@
             "investigation"
         ],
         "meanings": {
-            "light": [
+            "upright": [
                 "Speaking your mind",
                 "Making your opinions known",
                 "Offering constructive criticism",
@@ -2146,7 +2146,7 @@
                 "Giving clear direction to others",
                 "Uncovering the truth"
             ],
-            "shadow": [
+            "reversed": [
                 "Stating your opinions as fact",
                 "Picking fights",
                 "Starting arguments",
@@ -2183,7 +2183,7 @@
             "aptitude"
         ],
         "meanings": {
-            "light": [
+            "upright": [
                 "Exercising tact or using diplomacy",
                 "Defusing a tense situation",
                 "Knowing what to say and how to say it",
@@ -2193,7 +2193,7 @@
                 "Telling jokes",
                 "Possessing a knack for music, math, art, or science"
             ],
-            "shadow": [
+            "reversed": [
                 "Knowing exactly what to say to destroy another person",
                 "Withholding critical information",
                 "Using a barbed tongue to upset others",
@@ -2229,7 +2229,7 @@
             "verdict"
         ],
         "meanings": {
-            "light": [
+            "upright": [
                 "Expressing yourself with firmness and authority",
                 "Rendering a final decision",
                 "Consulting an expert",
@@ -2237,7 +2237,7 @@
                 "Coming to a final conclusion",
                 "Reaching a beneficial agreement based on sound information"
             ],
-            "shadow": [
+            "reversed": [
                 "Insisting on having the last word",
                 "Flaunting your intellectual capability",
                 "Talking \"over the heads\" of others",
@@ -2275,7 +2275,7 @@
             "invention"
         ],
         "meanings": {
-            "light": [
+            "upright": [
                 "Being inspired",
                 "Identifying an important goal",
                 "Being given the opportunity to do whatever you want to do",
@@ -2284,7 +2284,7 @@
                 "Creating something new",
                 "Being aroused, sexually or creatively"
             ],
-            "shadow": [
+            "reversed": [
                 "Failing to take advantage of a great opportunity",
                 "Being ineffectual or lazy",
                 "Making an inadequate effort",
@@ -2320,7 +2320,7 @@
             "individuality"
         ],
         "meanings": {
-            "light": [
+            "upright": [
                 "Having a choice",
                 "Offering or being offered an option",
                 "Seeing the value of another person's approach",
@@ -2328,7 +2328,7 @@
                 "Successfully doing more than one thing at a time",
                 "Being empowered to make a choice"
             ],
-            "shadow": [
+            "reversed": [
                 "Misrepresenting your intentions",
                 "Doing one thing while desiring another",
                 "Changing course mid-stream for no good reason",
@@ -2362,7 +2362,7 @@
             "exploration"
         ],
         "meanings": {
-            "light": [
+            "upright": [
                 "Putting a plan into motion",
                 "Taking that critical first step",
                 "Making good things happen",
@@ -2371,7 +2371,7 @@
                 "Hitting the ground running",
                 "Seeing your plans come to fruition"
             ],
-            "shadow": [
+            "reversed": [
                 "Procrastinating",
                 "Knowing what to do, but refusing to do it",
                 "Launching a project without a clear definition of who should do what",
@@ -2407,14 +2407,14 @@
             "completion"
         ],
         "meanings": {
-            "light": [
+            "upright": [
                 "Sharing in a great celebration",
                 "Sharing in a communal sense of achievement and success",
                 "Preparing for a party",
                 "Working together toward a common goal",
                 "Giving or winning awards"
             ],
-            "shadow": [
+            "reversed": [
                 "Keeping your nose to the grindstone",
                 "Recognizing good work by demanding more work",
                 "Failing to share in a group celebration",
@@ -2450,13 +2450,13 @@
             "strife"
         ],
         "meanings": {
-            "light": [
+            "upright": [
                 "Calmly expressing a dissenting opinion",
                 "Allowing someone to use his or her own methods to get a job done",
                 "Opening the floor for discussion or debate",
                 "Comparing progress made so far to standards set earlier"
             ],
-            "shadow": [
+            "reversed": [
                 "Berating others for their ridiculous opinions",
                 "Picking fights",
                 "Offering destructive criticism",
@@ -2491,7 +2491,7 @@
             "triumph"
         ],
         "meanings": {
-            "light": [
+            "upright": [
                 "Outperforming your peers",
                 "Winning a competition",
                 "Being recognized as a capable person",
@@ -2501,7 +2501,7 @@
                 "Earning the admiration of others",
                 "Telling someone, \"Good job!\""
             ],
-            "shadow": [
+            "reversed": [
                 "Being a bad winner",
                 "Allowing your achievements to inflate your ego",
                 "Looking down on people who seem less capable",
@@ -2536,7 +2536,7 @@
             "determination"
         ],
         "meanings": {
-            "light": [
+            "upright": [
                 "Refusing to be silenced through fear or intimidation",
                 "Continuing a fight against all odds",
                 "Being fierce",
@@ -2544,7 +2544,7 @@
                 "Refusing to put up with abuse",
                 "Clinging to your values despite all pressure to abandon them"
             ],
-            "shadow": [
+            "reversed": [
                 "Having a chip on your shoulder",
                 "Taking unnecessary risks as a means of proving your fearlessness",
                 "Looking for an opportunity to take offense",
@@ -2579,7 +2579,7 @@
             "change"
         ],
         "meanings": {
-            "light": [
+            "upright": [
                 "Taking swift action",
                 "Moving forward with a plan as quickly as possible",
                 "Energizing yourself",
@@ -2588,7 +2588,7 @@
                 "Embracing the idea that nothing stays the same forever",
                 "Reacting quickly and appropriately to unforeseen problems"
             ],
-            "shadow": [
+            "reversed": [
                 "Giving in to panic",
                 "Running in circles and screaming",
                 "Insisting things must always stay the same",
@@ -2625,7 +2625,7 @@
             "release"
         ],
         "meanings": {
-            "light": [
+            "upright": [
                 "Sticking with it for the duration",
                 "Fulfilling your promises and obligations",
                 "Bearing up under incredible duress",
@@ -2634,7 +2634,7 @@
                 "Refusing to quit",
                 "Going as far as you can go and being satisfied with your performance"
             ],
-            "shadow": [
+            "reversed": [
                 "Making yourself a martyr",
                 "Abandoning your post",
                 "Giving up at the first sign of opposition",
@@ -2671,14 +2671,14 @@
             "oppression"
         ],
         "meanings": {
-            "light": [
+            "upright": [
                 "Holding your own in extreme circumstances",
                 "Helping others carry their burdens",
                 "Coming to the aid of the oppressed",
                 "Knowing and being honest about your own limits",
                 "Recognizing when you are not well-suited for a particular task"
             ],
-            "shadow": [
+            "reversed": [
                 "Taking on more work than you know you can handle",
                 "Refusing to say \"No\" when you're already overloaded",
                 "Making a habit of working overtime",
@@ -2713,7 +2713,7 @@
             "affirmation"
         ],
         "meanings": {
-            "light": [
+            "upright": [
                 "Leaping at a new opportunity",
                 "Being a cheerleader or ardent advocate for your cause",
                 "Being a True Believer",
@@ -2721,7 +2721,7 @@
                 "Trusting in your own abilities",
                 "Asking for feedback"
             ],
-            "shadow": [
+            "reversed": [
                 "Basing your entire self-image on what others think",
                 "Seizing every new idea that comes your way without question",
                 "Habitually discounting input or feedback from others",
@@ -2754,7 +2754,7 @@
             "advocacy"
         ],
         "meanings": {
-            "light": [
+            "upright": [
                 "Charging ahead",
                 "Making rapid progress",
                 "Refusing limits",
@@ -2763,7 +2763,7 @@
                 "Convincing others to follow you",
                 "Being a catalyst for change"
             ],
-            "shadow": [
+            "reversed": [
                 "Blundering forward with inadequate skill or information",
                 "Running roughshod over the feelings of others",
                 "Using sex appeal to manipulate others",
@@ -2796,7 +2796,7 @@
             "collaboration"
         ],
         "meanings": {
-            "light": [
+            "upright": [
                 "Paying close attention",
                 "Helping others focus on the issue at hand",
                 "Getting everyone to work together",
@@ -2804,7 +2804,7 @@
                 "Bringing people together, despite their differences",
                 "Using reverse psychology"
             ],
-            "shadow": [
+            "reversed": [
                 "Being distracted, or using your charms or skills to distract others from the goal",
                 "Calling attention to yourself with negative or unhealthy behaviors",
                 "Disrupting group activities as a means of feeding your own ego"
@@ -2835,14 +2835,14 @@
             "direction"
         ],
         "meanings": {
-            "light": [
+            "upright": [
                 "Putting old things together in new and exciting ways",
                 "Coming up with unexpected solutions",
                 "Using your experience to solve puzzles and problems",
                 "Doing what you set out to do",
                 "Directing the efforts of others"
             ],
-            "shadow": [
+            "reversed": [
                 "Using your creativity to get out of honest work",
                 "Investing great energy in avoiding responsibility",
                 "Boasting about achievements without putting your expertise to practical use",
@@ -2875,14 +2875,14 @@
             "receiving"
         ],
         "meanings": {
-            "light": [
+            "upright": [
                 "Outlining a plan for achieving prosperity",
                 "Becoming aware of opportunities to improve income or health",
                 "Realizing you have everything you need",
                 "Appreciating everything the Universe has given you",
                 "Receiving the perfect gift at the perfect time"
             ],
-            "shadow": [
+            "reversed": [
                 "Indulging in relentless consumerism",
                 "Wanting more, no matter how much you have",
                 "Obsessing on your account balance",
@@ -2918,7 +2918,7 @@
             "diagnosis"
         ],
         "meanings": {
-            "light": [
+            "upright": [
                 "Weighing options",
                 "Comparing prices",
                 "Determining the value of one option over another",
@@ -2927,7 +2927,7 @@
                 "Looking at the bottom line",
                 "Asking for a second opinion on health issues"
             ],
-            "shadow": [
+            "reversed": [
                 "Engaging in endless price comparison",
                 "Putting off a buying decision for fear of finding a slightly better value later on",
                 "Buying something without regard for value",
@@ -2962,7 +2962,7 @@
             "contribution"
         ],
         "meanings": {
-            "light": [
+            "upright": [
                 "Finishing a project",
                 "Setting and meeting standards",
                 "Performing according to specifications",
@@ -2971,7 +2971,7 @@
                 "Doing your part in a group project",
                 "Delivering exactly what others have asked for"
             ],
-            "shadow": [
+            "reversed": [
                 "Pandering to the tastes of others",
                 "Failing to deliver what you've promised",
                 "Not delivering your best work unless closely supervised",
@@ -3006,7 +3006,7 @@
             "safety"
         ],
         "meanings": {
-            "light": [
+            "upright": [
                 "Saving for a rainy day",
                 "Fasting as part of a spiritual practice",
                 "Dieting in an effort to improve your body",
@@ -3015,7 +3015,7 @@
                 "Establishing a trust fund",
                 "Opening a savings account"
             ],
-            "shadow": [
+            "reversed": [
                 "Being stingy",
                 "Refusing to spend money that needs to be spent",
                 "Withholding sex from your partner",
@@ -3051,7 +3051,7 @@
             "crisis"
         ],
         "meanings": {
-            "light": [
+            "upright": [
                 "Recognizing your needs and taking action to fulfill them",
                 "Doing as much as you can do with what little you have",
                 "Admitting you need help",
@@ -3059,7 +3059,7 @@
                 "Focusing on what you have versus what you don't",
                 "Looking for the light at the end of the tunnel"
             ],
-            "shadow": [
+            "reversed": [
                 "Exaggerating your financial or physical needs",
                 "Adopting a poverty mentality",
                 "Refusing to support yourself",
@@ -3096,7 +3096,7 @@
             "sharing"
         ],
         "meanings": {
-            "light": [
+            "upright": [
                 "Giving time, money, or effort to a charity",
                 "Taking part in a group effort",
                 "Lending your resources to others without expecting anything in return",
@@ -3106,7 +3106,7 @@
                 "Tithing",
                 "Sharing credit for your success"
             ],
-            "shadow": [
+            "reversed": [
                 "Making a loan as a means of gaining control over someone",
                 "Using charitable acts to draw attention to yourself",
                 "Dividing work or resources unfairly",
@@ -3141,7 +3141,7 @@
             "reflection"
         ],
         "meanings": {
-            "light": [
+            "upright": [
                 "Measuring progress toward your goal",
                 "Looking at results with an eye toward improving performance",
                 "Asking, \"How happy am I?\"",
@@ -3149,7 +3149,7 @@
                 "Deciding it's time for a change",
                 "Expressing an honest opinion"
             ],
-            "shadow": [
+            "reversed": [
                 "Becoming distracted by melancholy thoughts",
                 "Longing for \"the good old days\"",
                 "Beating yourself up over lost opportunities",
@@ -3184,7 +3184,7 @@
             "skill"
         ],
         "meanings": {
-            "light": [
+            "upright": [
                 "Doing your best",
                 "Bringing enthusiasm and zeal to your work",
                 "Making an effort to be the best you can be",
@@ -3194,7 +3194,7 @@
                 "Building something with your hands",
                 "Making a handmade gift"
             ],
-            "shadow": [
+            "reversed": [
                 "Working yourself to death",
                 "Doing a half-hearted or sloppy job",
                 "Continuing in a job you hate",
@@ -3230,7 +3230,7 @@
             "enough"
         ],
         "meanings": {
-            "light": [
+            "upright": [
                 "Investing time in learning or teaching a difficult task",
                 "Restraining yourself from physical or financial extremes",
                 "Making sacrifices as a way of achieving larger goals",
@@ -3238,7 +3238,7 @@
                 "Wanting what you have",
                 "Knowing the difference between needs and wants"
             ],
-            "shadow": [
+            "reversed": [
                 "Being assigned to a task without being trained to perform it",
                 "Pursuing a position for which you are not qualified",
                 "Disregarding requirements",
@@ -3273,7 +3273,7 @@
             "greed"
         ],
         "meanings": {
-            "light": [
+            "upright": [
                 "Celebrating your physical and financial blessings",
                 "Realizing how lucky or how blessed you are",
                 "Being satisfied with your physical and financial achievements",
@@ -3281,7 +3281,7 @@
                 "Enjoying a feast",
                 "Showering friends or family with gifts"
             ],
-            "shadow": [
+            "reversed": [
                 "Spending all of your money on extravagant gifts and possessions",
                 "Trying too hard to impress others with your wealth or physique",
                 "Giving an inappropriately expensive gift as a means of currying favor",
@@ -3316,7 +3316,7 @@
             "adolescence"
         ],
         "meanings": {
-            "light": [
+            "upright": [
                 "Learning the value of a dollar",
                 "Starting a savings plan",
                 "Taking the first steps toward getting out of debt",
@@ -3325,7 +3325,7 @@
                 "Launching a diet, a weight-lifting program, or a health-related effort",
                 "Learning by doing"
             ],
-            "shadow": [
+            "reversed": [
                 "Trying to appear healthier or wealthier than you really are",
                 "Spending money carelessly",
                 "Living strictly for today, with no thought of tomorrow",
@@ -3358,7 +3358,7 @@
             "invention"
         ],
         "meanings": {
-            "light": [
+            "upright": [
                 "Spending money wisely",
                 "Saving for a rainy day",
                 "Paying close attention to physical or financial details",
@@ -3368,7 +3368,7 @@
                 "Finding creative ways to \"make do\" with resources on hand",
                 "Completing a new invention"
             ],
-            "shadow": [
+            "reversed": [
                 "Throwing caution to the four winds",
                 "Spending without regard for consequence",
                 "Spending on luxury when necessities are lacking",
@@ -3404,7 +3404,7 @@
             "prosperity"
         ],
         "meanings": {
-            "light": [
+            "upright": [
                 "Appreciating fine food, fine wine, beautiful art, beautiful bodies, or any of the better things in life",
                 "Reveling in healthy sexuality",
                 "Treating yourself",
@@ -3412,7 +3412,7 @@
                 "Rewarding someone with compensation above and beyond expectations",
                 "Having it all"
             ],
-            "shadow": [
+            "reversed": [
                 "Indulging in gluttony or greediness",
                 "Becoming insatiable",
                 "Blunting the impact of treats by indulging in them too often",
@@ -3445,7 +3445,7 @@
             "intervention"
         ],
         "meanings": {
-            "light": [
+            "upright": [
                 "Becoming debt-free",
                 "Having more than enough to get by",
                 "Making contributions to a savings plan",
@@ -3454,7 +3454,7 @@
                 "Being confident in the bedroom",
                 "Taking on the role of enforcer when called upon to do so"
             ],
-            "shadow": [
+            "reversed": [
                 "Becoming so conservative you resist all change on principle alone",
                 "Ignoring innovations in the name of preserving tradition",
                 "Being smug or cocky",

@@ -4,7 +4,7 @@ import random
 with open('cogs/readings/cards.json') as cards_data:
     cards = json.load(cards_data)
 
-directions = ['light', 'shadow']
+directions = ['Upright', 'Reversed']
 
 
 def get_card():
@@ -20,7 +20,7 @@ def card_name(card):
 
 
 def card_meanings(card, direction):
-    return '\n'.join(card['meanings'][direction])
+    return '\n'.join(card['meanings'][direction.lower()])
 
 
 def card_keywords(card):
@@ -52,8 +52,8 @@ def get_3cards():
 
 def yes_no(cards):
     count = 0
-    for i in range(3):
-        if "Ace" in cards[f'card{i}']['name']:
+    for x in cards:
+        if cards[x] == "Upright":
             count += 1
         else:
             continue
@@ -64,6 +64,18 @@ def get_attribute(cards, attribute):
     newList = []
     for i in range(len(cards)):
         newList.append(cards[f'card{i}'][attribute])
-    if attribute == "name":
-        return '\n'.join(newList)
     return newList
+
+
+def get_shapes(cards):
+    answers = {}
+    for i in cards:
+        answers[i] = random.choice(directions)
+    return answers
+
+
+def helper(cards):
+    newList = []
+    for x in cards:
+        newList.append(f'{x} ({cards[x]})')
+    return '\n'.join(newList)
