@@ -41,3 +41,29 @@ def get_fortunes(card):
 
 def card_description(card):
     return card['description']
+
+
+def get_3cards():
+    cards = {}
+    for i in range(3):
+        cards[f'card{i}'] = get_card()
+    return cards
+
+
+def yes_no(cards):
+    count = 0
+    for i in range(3):
+        if "Ace" in cards[f'card{i}']['name']:
+            count += 1
+        else:
+            continue
+    return count
+
+
+def get_attribute(cards, attribute):
+    newList = []
+    for i in range(len(cards)):
+        newList.append(cards[f'card{i}'][attribute])
+    if attribute == "name":
+        return '\n'.join(newList)
+    return newList
