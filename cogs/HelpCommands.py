@@ -10,7 +10,7 @@ class HelpCommands(commands.Cog):
     async def on_help(self, ctx):
         embed = discord.Embed(
             title="Help Commands",
-            description="You can use these commands to return a value",
+            description="I am *AstroBot*, a Tarot Reading Bot created by *yifei#0799*. I am here to guide you and provide you answers on these magical Tarot Cards. These are my commands and my prefix is \"!\". Happy Tarot Reading \N{ringed planet}",
             color=discord.Colour.purple(),
         )
         embed.set_author(name="AstroBot",
@@ -23,10 +23,14 @@ class HelpCommands(commands.Cog):
             name="*!single*", value="Returns a single tarot card reading", inline=False)
         embed.add_field(
             name="!*three*", value="Returns a past, present, future reading", inline=False)
+        embed.add_field(name="*!yesno*",
+                        value="Returns an answer to a yes or no question", inline=False)
         embed.add_field(
             name="*!info*", value="Information on the different type of readings", inline=False)
         embed.add_field(name="*!card <name of card>*",
                         value="Detailed information of a specific card", inline=False)
+        embed.set_footer(
+            text="For any bugs or suggestions, please dm yifei#0799")
         await ctx.send(embed=embed)
 
 

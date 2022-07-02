@@ -14,6 +14,8 @@ bot.remove_command('help')
 async def on_ready():
     print(f"We have logged in as {bot.user}")
 
+"""misc commands"""
+
 
 @bot.command(name="hello")
 async def hello(ctx):
@@ -26,6 +28,8 @@ async def bye(ctx):
     username = str(ctx.author.name)
     await ctx.send(f'Goodbye, {username}. It was speaking with you \N{crystal ball}')
 
+
+"""importing cogs"""
 cogs_dir = "cogs"
 
 if __name__ == '__main__':
