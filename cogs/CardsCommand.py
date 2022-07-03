@@ -1,3 +1,4 @@
+from operator import attrgetter
 from discord.ext import commands
 import discord
 from cogs.readings import thecards
@@ -53,6 +54,30 @@ class CardsCommand(commands.Cog):
                          icon_url="https://i.imgur.com/zZMmLsN.png")
         embed.add_field(name="*Your Cards*", value=shapes)
         embed.add_field(name="*Why?*", value=answer)
+        await ctx.send(embed=embed)
+
+    @commands.command(name="card")
+    async def specific_card(self, ctx, arg):
+        card = thecards.find_card(arg)
+
+        embed = discord.Embed(
+            title=thecards.card_name(card),
+            description=thecards.card_description(card),
+            color=discord.Colour.purple()
+        )
+        embed.set_author(name="AstroBot",
+                         icon_url="https://i.imgur.com/zZMmLsN.png")
+        embed.set_thumbnail(url=thecards.get_image(card))
+        embed.add_field(name="*Keywords*",
+                        value=thecards.card_keywords(card), inline=True)
+        embed.add_field(name="*Fortune Telling*",
+                        value=thecards.get_fortunes(card), inline=True)
+        embed.add_field(name="*Meaning (Upright)*",
+                        value=thecards.card_meanings(card, 'upright'), inline=False)
+        embed.add_field(name="*Meanings (Reversed)*",
+                        value=thecards.card_meanings(card, 'reversed'), inline=False)
+        embed.add_field(name="*Questions to Ask Yourself*",
+                        value=thecards.get_questions(card), inline=False)
         await ctx.send(embed=embed)
 
 

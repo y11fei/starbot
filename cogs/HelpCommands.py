@@ -27,7 +27,7 @@ class HelpCommands(commands.Cog):
                         value="Returns an answer to a yes or no question", inline=False)
         embed.add_field(
             name="*!info*", value="Information on the different type of readings", inline=False)
-        embed.add_field(name="*!card <name of card>*",
+        embed.add_field(name="*!card \"name of card\"*",
                         value="Detailed information of a specific card", inline=False)
         embed.set_footer(
             text="For any bugs or suggestions, please dm yifei#0799")

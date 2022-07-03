@@ -79,3 +79,18 @@ def helper(cards):
     for x in cards:
         newList.append(f'{x} ({cards[x]})')
     return '\n'.join(newList)
+
+
+def find_card(card):
+    answer = None
+    for i in cards:
+        if i['name'].lower() == card.lower():
+            answer = i
+            break
+        else:
+            answer = "Not a valid Tarot Card, sorry \N{confounded face}. Please try again."
+            continue
+    return answer
+
+
+# print(find_card('ace of pentacles'))
