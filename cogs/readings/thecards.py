@@ -31,6 +31,10 @@ def get_image(card):
     return card['img']
 
 
+def get_affirmation(card):
+    return card['Affirmation']
+
+
 def get_questions(card):
     return '\n'.join(card['Questions to Ask'])
 
@@ -93,4 +97,9 @@ def find_card(card):
     return answer
 
 
-# print(find_card('ace of pentacles'))
+def arcana_cards(suit):
+    list = []
+    for i in cards:
+        if i['suit'] == suit:
+            list.append(i['name'])
+    return '\n'.join(list)
