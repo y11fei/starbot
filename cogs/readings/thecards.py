@@ -31,20 +31,12 @@ def get_image(card):
     return card['img']
 
 
-def get_affirmation(card):
-    return card['Affirmation']
-
-
 def get_questions(card):
     return '\n'.join(card['Questions to Ask'])
 
 
 def get_fortunes(card):
     return '\n'.join(card['fortune_telling'])
-
-
-def card_description(card):
-    return card['description']
 
 
 def get_3cards():
@@ -85,7 +77,8 @@ def helper(cards):
     return '\n'.join(newList)
 
 
-def find_card(card):
+def find_card(query):
+    card = ' '.join(query)
     answer = None
     for i in cards:
         if i['name'].lower() == card.lower():

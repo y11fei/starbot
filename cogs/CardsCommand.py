@@ -15,7 +15,7 @@ class CardsCommand(commands.Cog):
 
         embed = discord.Embed(
             title=f'{thecards.card_name(card)} ({direction})',
-            description=thecards.card_description(card),
+            description=card['description'],
             color=discord.Colour.purple()
         )
         embed.set_author(name="AstroBot",
@@ -28,8 +28,6 @@ class CardsCommand(commands.Cog):
                         value=thecards.get_fortunes(card), inline=True)
         embed.add_field(name="*Meanings*",
                         value=thecards.card_meanings(card, direction), inline=False)
-        embed.add_field(name="*Affirmation*",
-                        value=thecards.get_affirmation(card), inline=False)
         embed.add_field(name="*Questions to Ask Yourself*",
                         value=thecards.get_questions(card))
 
@@ -61,31 +59,33 @@ class CardsCommand(commands.Cog):
 
     # card meaning
     @commands.command(name="card")
-    async def specific_card(self, ctx, arg):
-        card = thecards.find_card(arg)
-
-        if type(card) == str:
-            await ctx.send(card)
+    async def specific_card(self, ctx, *args):
+        if not args:
+            await ctx.send("In order to get information on a specific Tarot card, please try like this: '*!card ace of pentacles*' \N{crystal ball}")
         else:
-            embed = discord.Embed(
-                title=thecards.card_name(card),
-                description=thecards.card_description(card),
-                color=discord.Colour.purple()
-            )
-            embed.set_author(name="AstroBot",
-                             icon_url="https://i.imgur.com/zZMmLsN.png")
-            embed.set_thumbnail(url=thecards.get_image(card))
-            embed.add_field(name="*Keywords*",
-                            value=thecards.card_keywords(card), inline=True)
-            embed.add_field(name="*Fortune Telling*",
-                            value=thecards.get_fortunes(card), inline=True)
-            embed.add_field(name="*Meaning (Upright)*",
-                            value=thecards.card_meanings(card, 'upright'), inline=False)
-            embed.add_field(name="*Meanings (Reversed)*",
-                            value=thecards.card_meanings(card, 'reversed'), inline=False)
-            embed.add_field(name="*Questions to Ask Yourself*",
-                            value=thecards.get_questions(card), inline=False)
-            await ctx.send(embed=embed)
+            card = thecards.find_card(args)
+            if type(card) == str:
+                await ctx.send(card)
+            else:
+                embed = discord.Embed(
+                    title=thecards.card_name(card),
+                    description=card['description'],
+                    color=discord.Colour.purple()
+                )
+                embed.set_author(name="AstroBot",
+                                 icon_url="https://i.imgur.com/zZMmLsN.png")
+                embed.set_thumbnail(url=thecards.get_image(card))
+                embed.add_field(name="*Keywords*",
+                                value=thecards.card_keywords(card), inline=True)
+                embed.add_field(name="*Fortune Telling*",
+                                value=thecards.get_fortunes(card), inline=True)
+                embed.add_field(name="*Meaning (Upright)*",
+                                value=thecards.card_meanings(card, 'upright'), inline=False)
+                embed.add_field(name="*Meanings (Reversed)*",
+                                value=thecards.card_meanings(card, 'reversed'), inline=False)
+                embed.add_field(name="*Questions to Ask Yourself*",
+                                value=thecards.get_questions(card), inline=False)
+                await ctx.send(embed=embed)
 
     # list of all cards
     @commands.command(name="list")

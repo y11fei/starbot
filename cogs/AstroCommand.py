@@ -2,7 +2,6 @@ from discord.ext import commands
 import discord
 from cogs.astrology import signs
 
-
 class AstroCommands(commands.Cog):
     def __init__(self, bot):
         self.bot = bot
@@ -18,23 +17,21 @@ class AstroCommands(commands.Cog):
             else:
                 embed = discord.Embed(
                     title=args[0].capitalize(),
-                    description=signs.get_attribute(data, 'description'),
+                    description=data['description'],
                     color=discord.Colour.purple()
                 )
                 embed.set_author(name="AstroBot",
                                  icon_url="https://i.imgur.com/zZMmLsN.png")
                 embed.add_field(name="Date Range",
-                                value=signs.get_attribute(data, 'date_range'), inline=True)
-                embed.add_field(name="Compatibility", value=signs.get_attribute(
-                    data, 'compatibility'), inline=True)
-                embed.add_field(name="Mood", value=signs.get_attribute(
-                    data, 'mood'), inline=True)
-                embed.add_field(name="Color", value=signs.get_attribute(
-                    data, 'color'), inline=True)
+                                value=data['date_range'], inline=True)
+                embed.add_field(name="Compatibility",
+                                value=data['compatibility'], inline=True)
+                embed.add_field(name="Mood", value=data['mood'], inline=True)
+                embed.add_field(name="Color", value=data['color'], inline=True)
                 embed.add_field(name="Lucky Number",
-                                value=signs.get_attribute(data, 'lucky_number'), inline=True)
+                                value=data['lucky_number'], inline=True)
                 embed.add_field(name='Lucky Time',
-                                value=signs.get_attribute(data, 'lucky_time'), inline=True)
+                                value=data['lucky_time'], inline=True)
                 await ctx.send(embed=embed)
 
 

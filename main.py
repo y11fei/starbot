@@ -1,10 +1,12 @@
 import discord
 from discord.ext import commands
-from decouple import config
-from os import listdir
+from dotenv import load_dotenv
+from os import listdir, getenv
 from os.path import isfile, join
 
-token = config('TOKEN')
+
+load_dotenv('.env')
+token = getenv('TOKEN')
 
 bot = commands.Bot(command_prefix='!')
 bot.remove_command('help')

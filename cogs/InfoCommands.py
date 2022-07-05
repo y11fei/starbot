@@ -6,7 +6,7 @@ class InfoCommands(commands.Cog):
     def __init__(self, bot):
         self.bot = bot
 
-    @commands.command(name='info')
+    @commands.command(name='tarot')
     async def on_info(self, ctx):
         embed = discord.Embed(
             title="Different Types of Readings",
