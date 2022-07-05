@@ -13,7 +13,7 @@ class InfoCommands(commands.Cog):
             description="Using these commands you can get a reading. I am here to give you information through these readings \N{smiling face with smiling eyes}",
             color=discord.Colour.purple()
         )
-        embed.set_author(name="AstroBot",
+        embed.set_author(name="StarBot",
                          icon_url="https://i.imgur.com/zZMmLsN.png")
         embed.set_thumbnail(
             url="https://i.imgur.com/fukwh3e.jpg")

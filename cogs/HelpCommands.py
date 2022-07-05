@@ -13,7 +13,7 @@ class HelpCommands(commands.Cog):
             description="I am *AstroBot*, a Tarot Reading Bot created by *yifei#0799*. I am here to guide you and provide you answers on these magical Tarot Cards. These are my commands and my prefix is \"!\". Happy Tarot Reading \N{ringed planet}",
             color=discord.Colour.purple(),
         )
-        embed.set_author(name="AstroBot",
+        embed.set_author(name="StarBot",
                          icon_url="https://i.imgur.com/zZMmLsN.png")
         embed.set_thumbnail(
             url="https://upload.wikimedia.org/wikipedia/commons/f/ff/RWS_Tarot_21_World.jpg")

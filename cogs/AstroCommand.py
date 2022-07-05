@@ -20,7 +20,7 @@ class AstroCommands(commands.Cog):
                     description=data['description'],
                     color=discord.Colour.purple()
                 )
-                embed.set_author(name="AstroBot",
+                embed.set_author(name="StarBot",
                                  icon_url="https://i.imgur.com/zZMmLsN.png")
                 embed.add_field(name="Date Range",
                                 value=data['date_range'], inline=True)

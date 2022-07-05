@@ -18,7 +18,7 @@ class CardsCommand(commands.Cog):
             description=card['description'],
             color=discord.Colour.purple()
         )
-        embed.set_author(name="AstroBot",
+        embed.set_author(name="StarBot",
                          icon_url="https://i.imgur.com/zZMmLsN.png")
         embed.set_thumbnail(
             url=thecards.get_image(card))
@@ -72,7 +72,7 @@ class CardsCommand(commands.Cog):
                     description=card['description'],
                     color=discord.Colour.purple()
                 )
-                embed.set_author(name="AstroBot",
+                embed.set_author(name="StarBot",
                                  icon_url="https://i.imgur.com/zZMmLsN.png")
                 embed.set_thumbnail(url=thecards.get_image(card))
                 embed.add_field(name="*Keywords*",
@@ -102,7 +102,7 @@ class CardsCommand(commands.Cog):
             color=discord.Colour.purple()
         )
         embed.set_thumbnail(url="https://i.imgur.com/eXXeMlj.jpg")
-        embed.set_author(name="AstroBot",
+        embed.set_author(name="StarBot",
                          icon_url="https://i.imgur.com/zZMmLsN.png")
         embed.add_field(name="Trump", value=trump, inline=True)
         embed.add_field(name="Cups", value=cups, inline=True)

@@ -17,7 +17,7 @@ class AdvCommands(commands.Cog):
             description=adv,
             color=discord.Colour.purple()
         )
-        embed.set_author(name="AstroBot",
+        embed.set_author(name="StarBot",
                          icon_url="https://i.imgur.com/zZMmLsN.png")
         await ctx.send(embed=embed)
 
