@@ -21,8 +21,6 @@ class HelpCommands(commands.Cog):
         embed.add_field(name="*!bye*", value="Returns a Goodbye", inline=False)
         embed.add_field(
             name="*!single*", value="Returns a single tarot card reading", inline=False)
-        # embed.add_field(
-        #     name="!*three*", value="Returns a past, present, future reading", inline=False)
         embed.add_field(name="*!yesno*",
                         value="Returns an answer to a yes or no question", inline=False)
         embed.add_field(
@@ -31,6 +29,8 @@ class HelpCommands(commands.Cog):
                         value="Detailed information of a specific card", inline=False)
         embed.add_field(
             name="*!list*", value="Returns a list of all Tarot Cards", inline=False)
+        embed.add_field(name="*!sign <your sign + day>",
+                        value="Returns a Daily Horoscope for your Zodiac Sign", inline=False)
         embed.add_field(
             name="*!advice*", value="Returns an advice message for you", inline=False)
         embed.set_footer(
